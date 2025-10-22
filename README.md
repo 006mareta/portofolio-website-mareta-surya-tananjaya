@@ -2,7 +2,7 @@
 
 Website portofolio ini dibuat dengan 3 halaman, yaitu halaman profile, pengalaman, dan project. Didesain dengan perpaduan teknologi dan estetika visual, dimana pada website ini memakai tema pink soft yang memberikan vibes girly. 
 
-Link demo youtube :
+Link demo youtube : https://youtu.be/J99dlKNryM4?feature=shared
 
 Tampilan halaman profile
 ![alt text](https://github.com/006mareta/portofolio-website-mareta-surya-tananjaya/blob/main/Tampilan%20website/profile.png)
