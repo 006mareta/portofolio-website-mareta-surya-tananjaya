@@ -5,5 +5,4 @@ Website portofolio ini dibuat dengan 3 halaman, yaitu halaman profile, pengalama
 Link demo youtube :
 
 Tampilan halaman profile
-![alt text](https://github.com/006mareta/portofolio-website-mareta-surya-tananjaya/blob/main/Tampilan%20website/Screenshot%20(65).png)
-
+![alt text](https://github.com/006mareta/portofolio-website-mareta-surya-tananjaya/blob/main/Tampilan%20website/profile.png)
